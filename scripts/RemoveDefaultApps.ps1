@@ -34,7 +34,6 @@ $applicationList = @(
 	"Microsoft.WindowsPhone"
 	"Microsoft.WindowsSoundRecorder"
 	"*Solitaire*"
-	# "Microsoft.MicrosoftStickyNotes"
 	"Microsoft.Office.Sway"
 	"Microsoft.XboxApp"
 	"Microsoft.XboxIdentityProvider"
